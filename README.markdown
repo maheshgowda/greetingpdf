@@ -1,4 +1,4 @@
-This gem is created for generating pdf for 12x18 screeen
+This gem is created for generating pdf in 12x18 screeen
 # FINE's PDF Generator Prototype
 
 Welcome to the world famous PDF Generator Prototype. Here we're testing different Ruby gems functionality and features.
